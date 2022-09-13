@@ -9,7 +9,7 @@ I have a preference for the back-end </p>
 <h3>Learnings</h3>
 
 
-<img src="https://badgen.net/badge/icon/atom?icon=atom&label" alt=CSS">
+https://badgen.net/badge/icon/atom?icon=atom&label
 
     
 
