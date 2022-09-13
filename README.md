@@ -8,9 +8,8 @@ I have a preference for the back-end </p>
 
 <h3>Learnings</h3>
 
-<button data-badge="new" class="hasbadge">action</button>
 
-<div style="border: 1px solid red" data-badge="new" class="hasbadge">line 1<br />line 2</div>
+<img src="https://badgen.net/badge/CSS/blue" alt=CSS">
 
     
 
