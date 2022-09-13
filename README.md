@@ -8,8 +8,13 @@ I have a preference for the back-end </p>
 
 <h3>Learnings</h3>
 
-
-https://badgen.net/badge/icon/atom?icon=atom&label
+<ul>
+    <li>Html</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>PHP</li>
+    <li>Python</li>
+</ul>
 
     
 
