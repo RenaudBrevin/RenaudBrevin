@@ -1,23 +1,57 @@
-<h2>:speech_balloon: Hello there </h2>
+# Brévin Renaud
 
+Front-end developer focused on building performant, accessible and well-referenced web applications.
 
-<u><h3>:bulb: About me</h3></u>
-<p>My name is Brévin and I'm a french student at IIM Digital School - Paris where i study in Coding and Digital Innovation.
-I am passionate about web development and the new technologies. <br>
-I have a preference for the front-end </p>
+Currently working as a web developer while completing a Master's degree in full-stack development. My work mainly focuses on **front-end development with React / Next.js and TypeScript**, with particular attention to **SEO and digital accessibility**.
 
-<u><h3>:pushpin: Learnings</h3></u>
+## Tech Stack
 
-<div>
-    <img width="50px" margin="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML"/>
-    <img width="50px" margin="20px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS"/>
-    <img width="50px" margin="20px" src="https://i0.wp.com/www.wushujia.fr/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1" alt="Javascript"/>
-    <img width="50px" margin="20px" src="https://www.onespan.com//sites/default/files/blog/images/logo-php-adbac78231.png" alt="PHP"/>
-    <img width="50px" margin="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python"/>
-    <img width="50px" margin="20px" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="Wordpress"/>
-    <img width="50px" margin="20px" src="https://helpx.adobe.com/content/dam/help/fr/xd/help/faq/jcr_content/main-pars/imageandtext_1319139292/imageandtextimage/XD.png.img.png" alt="Adobe XD"/>
-    <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop"/>
-</div>
+**Front-end**
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- HTML / CSS
+- Tailwind
 
-    
+**Other skills**
+- SEO (technical SEO, performance, indexing)
+- Digital accessibility
+- REST APIs
+- Databases
 
+---
+
+# Projects
+
+## ImpotsCouple — Personal Project
+
+Tax simulation website allowing users to compare the impact of being **single, in a PACS or married** on income tax.
+
+The project focuses on **SEO optimization and performance** in order to generate organic traffic from search engines.
+
+**Tech & Tools**
+
+Next.js • TypeScript • Tailwind • Prisma • Supabase • Vercel
+
+---
+
+## Forestry Fund — Freelance Project
+
+Forestry Fund is a project created for the company **France Valley**, aiming to support the development of their activity internationally.
+
+The project involved **designing the interface and developing a website editable by the client**, allowing them to manage content autonomously.
+
+**Tech & Tools**
+
+WordPress • Elementor • Figma
+
+---
+
+## Links
+
+Portfolio  
+https://www.brevin-renaud.com
+
+LinkedIn  
+https://www.linkedin.com/in/brevin-renaud/
